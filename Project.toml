@@ -4,23 +4,13 @@ authors = ["Benjamin Chung <ckfinite@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
 [deps]
-Bonito = "824d6782-a2ef-11e9-3a09-e5662e0c26f8"
 CDRSerialization = "cbcadc0d-0faf-4c71-82b5-fceb8cc36223"
-IDLParser = "817e8c30-d1ad-4896-85b5-1c4c82b7999b"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
-Rotations = "6038ab10-8711-5258-84ad-4b1120ba62dc"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
-WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
-Zenoh = "b742139f-8771-480b-a9b2-33222b45d29b"
 
 [compat]
-Bonito = "4.0.3"
 LinearAlgebra = "1.11.0"
-Makie = "0.22.4"
-Rotations = "1.7.1"
 StaticArrays = "1.9.13"
-WGLMakie = "0.11.4"
 julia = "1.11"
 
 [extras]
